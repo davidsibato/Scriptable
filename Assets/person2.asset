@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22fe550c9382b1647b2d49a4b9d0797a, type: 3}
+  m_Name: person2
+  m_EditorClassIdentifier: 
+  Player: Malik
+  Country: South Africa
+  Hometown: Jozy
+  Strength: 86
+  Speed: 29
+  selected: {fileID: 9135545960136161427, guid: e77d76eda990d754094a01553d298620, type: 3}
